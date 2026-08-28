@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: <oricha-25>/<dexter-infinite-portfolio>
+  repo: oricha-25/dexter-infinite-portfolio
   branch: main
   base_url: https://decap-oauth-worker.orichahmed.workers.dev
   auth_endpoint: auth
